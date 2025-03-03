@@ -1,0 +1,6 @@
+url: https://api2r.github.io/cloudflareapi/
+template:
+  bootstrap: 5
+lang: en-US
+development:
+  mode: auto

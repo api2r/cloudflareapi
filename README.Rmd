@@ -16,6 +16,10 @@ knitr::opts_chunk$set(
 # cloudflareapi
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/cloudflareapi)](https://CRAN.R-project.org/package=cloudflareapi)
+[![Codecov test coverage](https://codecov.io/gh/api2r/cloudflareapi/graph/badge.svg)](https://app.codecov.io/gh/api2r/cloudflareapi)
+[![R-CMD-check](https://github.com/api2r/cloudflareapi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/api2r/cloudflareapi/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 A client to interact with the 'Cloudflare' 'API' described at <https://developers.cloudflare.com/api/>. The 'Cloudflare' 'API' provides programmatic access to 'Cloudflare.com', a platform that offers content delivery, security, and performance optimization services for websites and applications.
